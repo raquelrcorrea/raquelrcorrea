@@ -39,6 +39,16 @@
 
 </div>
 
+### 🖥️ Linguagens e Tecnologias
+<div align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" height="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="60" height="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" width="60" height="60"/>
+
+</div>
+
 
 <img width=100% src="https://github.com/user-attachments/assets/8c448747-fed4-4cf9-8a03-6ff73c628525"/>
 
