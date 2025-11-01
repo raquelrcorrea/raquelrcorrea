@@ -1,5 +1,5 @@
 <br> 
-
+<br>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=2F6214&width=435&lines=Hello%2C+my+name+is+Raquel;I'm+20+years+old+;I'm+a+computer+scientist;I'm+from+Brazil+)](https://git.io/typing-svg)
 <img width=100% bottom=50px src="https://github.com/user-attachments/assets/f2f2fc6b-1b02-49bc-af67-13c568c3f672"/>
 
