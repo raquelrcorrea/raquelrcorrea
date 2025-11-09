@@ -42,12 +42,15 @@
 ### 💡 Linguagens e Tecnologias
 <div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" height="60"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" width="60" height="60"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60" height="60"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="60" height="60"/>
+<img src="https://skillicons.dev/icons?i=java" width="60" height="60" />
+<img src="https://skillicons.dev/icons?i=python" width="60" height="60" />
+<img src="https://skillicons.dev/icons?i=eclipse" width="60" height="60" />
+<img src="https://skillicons.dev/icons?i=vscode" width="60" height="60" />
+<img src="https://skillicons.dev/icons?i=git" width="60" height="60" /> 
+<img src="https://skillicons.dev/icons?i=github" width="60" height="60" />
+<img src="https://skillicons.dev/icons?i=linux" width="60" height="60" />
+<img src="https://skillicons.dev/icons?i=windows" width="60" height="60" />
+
 
 </div>
 
