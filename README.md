@@ -67,6 +67,8 @@
 </div>
 
 ---
+<div align="center">
 
-🧠 Explorando o mundo da programação e buscando evoluir a cada projeto.
+🧠✨ Explorando o mundo da programação e evoluindo a cada projeto! ✨💻
 
+</div>
