@@ -53,10 +53,6 @@
 
 ---
 
-</div>
-
----
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=raquelrcorrea&show_icons=true&include_all_commits=true&count_private=true&theme=gruvbox&hide_border=false&title_color=8DAA9D&icon_color=6A8759&text_color=CED8C2&bg_color=1F1F1F" height="180" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=raquelrcorrea&layout=compact&card_width=320&langs_count=5&theme=gruvbox&hide_border=false&title_color=8DAA9D&text_color=CED8C2&bg_color=1F1F1F" height="180" alt="languages graph" />
